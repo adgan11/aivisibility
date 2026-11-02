@@ -3,13 +3,19 @@
   "name": "com.aivisibilityskill/mcp",
   "title": "AI Visibility",
   "description": "See how AI engines describe a product, find what to fix on its site, and verify the fix.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://aivisibilityskill.com",
+  "repository": {
+    "url": "https://github.com/aivisibilityskill/plugin",
+    "source": "github"
+  },
   "icons": [
     {
       "src": "https://aivisibilityskill.com/favicon.svg",
       "mimeType": "image/svg+xml",
-      "sizes": ["any"]
+      "sizes": [
+        "any"
+      ]
     }
   ],
   "remotes": [
