@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aivisibility": {
+      "type": "streamable-http",
+      "url": "https://mcp.aivisibilityskill.com/mcp"
+    }
+  }
+}

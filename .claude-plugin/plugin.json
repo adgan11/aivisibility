@@ -1,0 +1,13 @@
+{
+  "name": "aivisibility",
+  "version": "1.0.0",
+  "description": "See how AI engines describe a product, find what to fix on its site, and verify the fix.",
+  "author": { "name": "aivisibilityskill", "email": "support@aivisibilityskill.com" },
+  "homepage": "https://aivisibilityskill.com",
+  "repository": "https://github.com/aivisibilityskill/plugin",
+  "license": "MIT",
+  "keywords": ["ai-visibility", "geo", "aeo", "seo", "mcp"],
+  "mcpServers": {
+    "aivisibility": { "type": "http", "url": "https://mcp.aivisibilityskill.com/mcp" }
+  }
+}

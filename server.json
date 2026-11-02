@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.aivisibilityskill/mcp",
+  "title": "AI Visibility",
+  "description": "See how AI engines describe a product, find what to fix on its site, and verify the fix.",
+  "version": "1.0.0",
+  "websiteUrl": "https://aivisibilityskill.com",
+  "icons": [
+    {
+      "src": "https://aivisibilityskill.com/favicon.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": ["any"]
+    }
+  ],
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.aivisibilityskill.com/mcp"
+    }
+  ]
+}

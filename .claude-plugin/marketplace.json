@@ -1,0 +1,11 @@
+{
+  "name": "aivisibilityskill",
+  "owner": { "name": "aivisibilityskill", "email": "support@aivisibilityskill.com" },
+  "plugins": [
+    {
+      "name": "aivisibility",
+      "source": "./",
+      "description": "See how AI engines describe a product, find what to fix on its site, and verify the fix."
+    }
+  ]
+}

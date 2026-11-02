@@ -1,0 +1,11 @@
+{
+  "name": "aivisibility",
+  "version": "1.0.0",
+  "description": "See how AI engines describe a product, find what to fix on its site, and verify the fix.",
+  "mcpServers": {
+    "aivisibility": {
+      "httpUrl": "https://mcp.aivisibilityskill.com/mcp",
+      "oauth": { "enabled": true }
+    }
+  }
+}
