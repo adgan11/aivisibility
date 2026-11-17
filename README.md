@@ -9,12 +9,13 @@ This repo holds the agent skill and the connection settings for the remote MCP s
 
 ## Install
 
-| Client                    | How                                                                                                       |
-| ------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Claude Code               | `/plugin marketplace add aivisibilityskill/plugin`, then `/plugin install aivisibility@aivisibilityskill` |
-| Claude Code (server only) | `claude mcp add --transport http aivisibility https://mcp.aivisibilityskill.com/mcp`                      |
-| Codex                     | `codex mcp add aivisibility --url https://mcp.aivisibilityskill.com/mcp`                                  |
-| Others                    | Add a custom MCP server with the URL above                                                                |
+| Client                    | How                                                                                                        |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Claude Code               | `/plugin marketplace add adgan11/aivisibility`, then `/plugin install aivisibility@aivisibilityskill` |
+| Claude Code (server only) | `claude mcp add --transport http aivisibility https://mcp.aivisibilityskill.com/mcp`                       |
+| Codex                     | `codex mcp add aivisibility --url https://mcp.aivisibilityskill.com/mcp`                                   |
+| Any agent (skill only)    | `npx skills add adgan11/aivisibility`                                                                 |
+| Others                    | Add a custom MCP server with the URL above                                                                 |
 
 Your client opens a browser so you can sign in and approve the connection.
 
