@@ -3,7 +3,7 @@
   "name": "com.aivisibilityskill/mcp",
   "title": "AI Visibility",
   "description": "See how AI engines describe a product, find what to fix on its site, and verify the fix.",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "websiteUrl": "https://aivisibilityskill.com",
   "repository": {
     "url": "https://github.com/adgan11/aivisibility",
